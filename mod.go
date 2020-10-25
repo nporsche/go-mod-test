@@ -1,4 +1,4 @@
-package nmod
+package nmod1
 
 import "fmt"
 
