@@ -1,3 +1,3 @@
-module github.com/nporsche/go-mod-test
+module github.com/nporsche/nmod
 
 go 1.15
